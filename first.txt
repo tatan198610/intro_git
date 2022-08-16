@@ -3,3 +3,4 @@ Gitの練習を始めていきます。
 ・Git add
 ・Git commit
 ・Git rm
+・Git status
